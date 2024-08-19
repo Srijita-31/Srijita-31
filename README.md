@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srijita 
-- I’m interested in Machine Learning
-- e-mail: srijita.ghorai2003@gmail.com
+- I’m interested in Machine Learning and Cloud Computing 
+- E-mail: srijita.ghorai2003@gmail.com
 
 
 
