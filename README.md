@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Srijita 
-- I’m interested in Machine Learning and Data Analytics
+-  # Hi!! 👋 I'm Srijita 
+- I’m interested in Machine Learning 
 - E-mail: srijita.ghorai2003@gmail.com
 
 
