@@ -2,7 +2,7 @@
 - I’m interested in Machine Learning 
 - E-mail: srijita.ghorai2003@gmail.com
 
-### Languages and Tools:
+
 
 ### Languages and Tools:
 
