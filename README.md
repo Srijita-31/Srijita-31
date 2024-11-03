@@ -1,5 +1,5 @@
 -  # Hi!! 👋 I'm Srijita 
-- I’m interested in Machine Learning and Deep Learning
+- I’m currently learning Machine Learning and Deep Learning
 - E-mail: srijita.ghorai2003@gmail.com
 
 
