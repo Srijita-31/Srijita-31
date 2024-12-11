@@ -11,7 +11,7 @@
 
 📧 **Contact me at:** srijita.ghorai2003@gmail.com
 
-Let’s connect and build something impactful together! 🚀
+
 
 
  
