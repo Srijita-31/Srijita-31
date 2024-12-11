@@ -3,8 +3,6 @@
   
 📚 Currently learning advanced concepts in **Machine Learning** and exploring **Computer Vision**.
  
-💻 Skilled in **Python**, **Flask**, **Scikit-learn**, **Pandas**,  **Java**.
-
 🌱 Open to collaboration on AI, ML, and data-driven projects.
 
 📧 **Contact me at:** srijita.ghorai2003@gmail.com
