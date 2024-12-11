@@ -1,5 +1,5 @@
 -  # Hi!! 👋 I'm Srijita 
-- I’m passionate about **AI/ML** and love working on projects that involve real-world problem-solving.  
+- I’m passionate about **AI/ML** and love to work on projects that involve real-world problem-solving.  
 
 📚 Currently learning advanced concepts in **Machine Learning** and exploring **Computer Vision**.  
 
