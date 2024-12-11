@@ -5,7 +5,7 @@
 🌱 Open to collaboration on AI, ML, and data-driven projects.  
 📧 **Contact me at:** srijita.ghorai2003@gmail.com
 
-### Languages and Tools:
+
 <p>
   <h3>Languages and Tools:</h3>
 <p>
@@ -51,8 +51,7 @@
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   
-  <!-- Computer Vision -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenCV_logo_with_text.png" alt="OpenCV (Computer Vision)" width="40" height="40"/>
+ 
 </p>
 
 </p>
