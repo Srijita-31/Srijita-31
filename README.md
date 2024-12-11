@@ -1,10 +1,15 @@
 -  # Hi!! 👋 I'm Srijita 
--  I’m passionate about AI/ML and love to work on projects that involve real-world problem-solving.
-📚 Currently learning advanced concepts in Machine Learning and exploring computer vision.
-💻 Skilled in Python, Flask, Scikit-learn, Pandas, Java, MySQL.
-🎯 Like to strengthen my coding skills for future opportunities in tech.
-🌱 Open to collaboration on AI, ML, and data-driven projects.
-📧 Contact me at: srijita.ghorai2003@gmail.com
+- I’m passionate about **AI/ML** and love working on projects that involve real-world problem-solving.  
+
+📚 Currently learning advanced concepts in **Machine Learning** and exploring **Computer Vision**.  
+
+💻 Skilled in **Python**, **Flask**, **Scikit-learn**, **Pandas**,  **Java**.  
+
+🎯 Like to strengthen my coding skills for future opportunities in tech.  
+
+🌱 Open to collaboration on AI, ML, and data-driven projects.  
+
+📧 **Contact me at:** srijita.ghorai2003@gmail.com
 
 Let’s connect and build something impactful together! 🚀
 
