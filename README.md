@@ -1,5 +1,5 @@
--  # Hi!! 👋 I'm Srijita 
-- I’m passionate about **AI/ML and Data Science**.
+ # Hi!! 👋 I'm Srijita 
+I’m passionate about **AI/ML and Data Science**.
   
 📚 Currently learning advanced concepts in **Deep Learning** and exploring **Computer Vision**.
  
