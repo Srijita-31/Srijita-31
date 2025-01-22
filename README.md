@@ -1,9 +1,9 @@
 -  # Hi!! 👋 I'm Srijita 
 - I’m passionate about **AI/ML and Data Science**.
   
-📚 Currently learning advanced concepts in **Machine Learning** and exploring **Computer Vision**.
+📚 Currently learning advanced concepts in **Deep Learning** and exploring **Computer Vision**.
  
-🌱 Open to collaboration on AI, ML, and data-driven projects.
+🌱 Open to collaboration on Gen-AI, ML, and data-driven projects.
 
 📧 **Contact me at:** srijita.ghorai2003@gmail.com
 
