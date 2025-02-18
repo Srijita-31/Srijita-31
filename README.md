@@ -1,7 +1,7 @@
  # Hi!! 👋 I'm Srijita 
-I’m passionate about **AI/ML and Data Science**.
+
   
-📚 Currently learning advanced concepts in **Deep Learning** and exploring **Computer Vision**.
+📚 Currently learning advanced concepts in **Deep Learning** and exploring **Cloud Computing**.
  
 🌱 Open to collaboration on Gen-AI, ML, and data-driven projects.
 
