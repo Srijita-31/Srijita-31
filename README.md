@@ -1,7 +1,7 @@
  # Hi!! 👋 I'm Srijita 
 
   
-📚 Currently learning advanced concepts in **Deep Learning** and exploring **Cloud Computing**.
+
  
 🌱 Open to collaboration on Gen-AI, ML, and data-driven projects.
 
