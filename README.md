@@ -3,9 +3,9 @@
   
 
  
-🌱 Open to collaboration on Java, Python, ML, Cloud and data-driven projects.
-
-📧 **Contact me at:** srijita.ghorai2003@gmail.com
+🌱 Currently learning AI and Cloud Computing.
+ 
+📧 **How to reach me:** srijita.ghorai2003@gmail.com
 
 
 <p>
