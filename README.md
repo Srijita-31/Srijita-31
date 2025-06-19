@@ -3,7 +3,7 @@
   
 
  
-🌱 Open to collaboration on Gen-AI, ML, Cloud and data-driven projects.
+🌱 Open to collaboration on Java, Python, ML, Cloud and data-driven projects.
 
 📧 **Contact me at:** srijita.ghorai2003@gmail.com
 
