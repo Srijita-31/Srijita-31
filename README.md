@@ -1,4 +1,5 @@
-# Hi!! 👋 I'm Srijita 
+<h2 align="center">Hi!! 👋 I'm Srijita</h2>
+
 
   
 
