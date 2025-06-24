@@ -1,8 +1,10 @@
-<p align="center" style="font-size: 30 px;">Hi!! 👋 I'm Srijita</p>
+<p align="center" style="font-size: 90 px;">Hi!! 👋 I'm Srijita</p>
 
 
 
-  🌱 Currently learning AI and Cloud Computing.
+
+
+🌱 Currently learning AI and Cloud Computing.
  
 📧 **How to reach me:** srijita.ghorai2003@gmail.com
 
