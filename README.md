@@ -1,7 +1,7 @@
-<p align="center" style="font-size: 90 px;">Hi!! 👋 I'm Srijita</p>
+<h1 align="center">Hi, I'm Srijita! 👋</h1>
 
 
-
+---
 
 
 🌱 Currently learning AI and Cloud Computing.
