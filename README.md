@@ -56,30 +56,24 @@
  
 </p>
 <!-- Profile Stats for Srijita-31 -->
+## 📈 My Contributions
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=default" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=dark" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijita-31&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=dark" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijita-31&layout=compact&theme=dark" alt="languages"/>
 </p>
 
-</p>
+---
 
 
-
-
-
-
- 
   
   
 
 
 
 
-
-<!---
-Srijita-31/Srijita-31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
