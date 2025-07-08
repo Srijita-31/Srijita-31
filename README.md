@@ -57,10 +57,7 @@
 </p>
 <!-- Profile Stats for Srijita-31 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=default&hide_title=false" alt="Srijita-31's GitHub stats" />
-</p>
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=default" alt="GitHub Streak" />
 </p>
 <p align="center">
