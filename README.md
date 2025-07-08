@@ -56,11 +56,8 @@
  
 </p>
 <!-- Profile Stats for Srijita-31 -->
-## 📈 My Contributions
+###  My Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=dark" alt="streak"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=dark" alt="stats"/>
 </p>
