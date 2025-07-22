@@ -4,7 +4,9 @@
 ---
 
 
-🌱 Currently learning AI and Cloud Computing.
+🌱 Currently learning AI and MERN.
+🧭 Exploring Cloud and Blockchain technologies.
+ Passionate about turning data into meaningful insights & contributing to open source.
  
 📧 **How to reach me:** srijita.ghorai2003@gmail.com
 
