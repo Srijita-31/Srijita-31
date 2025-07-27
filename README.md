@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   
   
-  
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   
@@ -56,6 +55,9 @@
 
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=tokyonight)](https://git.io/streak-stats)
+
   
  
 
