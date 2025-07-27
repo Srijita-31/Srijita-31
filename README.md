@@ -55,21 +55,14 @@
 
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  
 
   
+ ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijita-31&theme=tokyo-night&hide_border=true)
+
+
+
  
-
-  
-<div align="center">
-  <h2>🚀 My Contributions </h2>
-
-<a href="#">
-  <img alt="snake eating my contributions" src="github-snake.svg" />
-    </a>
-  </br></br>
-</div>
-<hr/>
-
 <table>
   <tr>
     <td>
