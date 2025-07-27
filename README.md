@@ -56,11 +56,36 @@
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=tokyonight)](https://git.io/streak-stats)
-
   
  
 
+  
+<div align="center">
+  <h2>🚀 My Contributions </h2>
+
+<a href="#">
+  <img alt="snake eating my contributions" src="github-snake.svg" />
+    </a>
+  </br></br>
+</div>
+<hr/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+  <br />
+
+</p>
+
+  
 
 
 
