@@ -57,27 +57,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   
 
-  
- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijita-31&theme=tokyo-night&hide_border=true)
-
-
-
- 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
-     
-</table>
-
-  <br />
-
-</p>
-
-  
-
-
-
-
