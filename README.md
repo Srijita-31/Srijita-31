@@ -4,7 +4,7 @@
 ---
 
 
-🌱 Currently learning AI and MERN.
+🌱 I'm a Software Engineer.
 
 🧭 Exploring Cloud and Blockchain technologies.
 
