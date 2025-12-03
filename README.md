@@ -56,11 +56,7 @@
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
-  ![Srijita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijita-31&show_icons=true&theme=tokyonight)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijita-31&theme=tokyonight)
-
-  ![Srijita's Contributions](https://ghchart.rshah.org/Srijita-31)
 
 
   
