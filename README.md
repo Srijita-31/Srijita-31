@@ -6,7 +6,7 @@
 
 🌱 I'm a Software Engineer.
 
-🧭 Exploring Cloud and Blockchain technologies.
+👩‍💻   Backend-oriented engineer focused on logic, data flow, system reliability, and solving practical engineering problems.
 
  Passionate about turning data into meaningful insights & contributing to open source.
  
